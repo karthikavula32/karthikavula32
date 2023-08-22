@@ -1,19 +1,33 @@
-- 👋 Hi, I’m @karthikavula-wal
-- 👀 I’m interested in MERNStack Development, AWS, DevOps
-- 🌱 I’m currently working as a Full Stack Development.
-- 💞️ I’m looking to collaborate on Full Stack Development
-- 📫 How to reach me : <br />
-						LinkedIn : https://www.linkedin.com/in/karthik-avula/ <br />
-						Instagram : https://www.instagram.com/_cartic/ <br />
-						Twitter : https://twitter.com/avula_karthik <br />
-						mail: <a href=mailto:karthikavula32@gmail.com>karthikavula32@gmail.com</a> <br />
+## Hi there! 👋 I'm Karthik
+<ul>
+	<li>👨‍💻Full Stack Developer with more than an year experience in React, Node, Express JS</li>
+	<li>🔭 Interested in MERN Stack Dev, AWS, DevOps</li>
+	<li>🚀 Currently shaping projects in Full Stack Development</li>
+	<li>🤝 Open to collaborations in the same domains</li>
+</ul>
 
+## Things I work on daily basis
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) &nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) &nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) &nbsp;
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-<!---
-karthikavula-wal/karthikavula-wal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikavula32&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=karthikavula32&theme=dark&hide_border=true" width="400">
+## Let's Connect
+<p>
+	<a href="https://www.linkedin.com/in/karthik-avula/">
+		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a> &nbsp;
+	<a href="https://www.instagram.com/_cartic/">
+		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+	</a> &nbsp;
+	<a href="mailto:karthikavula32@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
 </p>
+
+## Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikavula32&layout=compact&theme=dark&hide_border=true) &nbsp;
+![Karthik Github Stats](https://github-readme-streak-stats.herokuapp.com?user=karthikavula32&layout=compact&theme=dark&hide_border=true)
