@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Karthik
 <ul>
-	<li>👨‍💻Full Stack Developer with more than an year experience in React, Node, Express JS</li>
+	<li>👨‍💻Full Stack Developer with more than an year of experience in React, Node, Express JS</li>
 	<li>🔭 Interested in MERN Stack Dev, AWS, DevOps</li>
 	<li>🚀 Currently shaping projects in Full Stack Development</li>
 	<li>🤝 Open to collaborations in the same domains</li>
